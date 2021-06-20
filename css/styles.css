@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(167, 231, 186);
+  font-family: Open-Dyslexic, Comic Sans, Century Gothic, Verdana;
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+}
