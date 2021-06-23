@@ -1,7 +1,7 @@
 # FunWithWords
 JS project website... code Louisville
 
-This website is designed with my grandson in mind, who has dyslexia.  Using a mad libs format, this will allow ayone to learn the basic parts of speech in an enertaining way, by replacing various words of a story with randomly selected words.  The idea is to provide several types of stories and different levels of difficulty.  Special fonts will be used to enhance learning for those with dyslexia, encouraging users to read their own stories.
+This website is designed with my grandson in mind, who has dyslexia.  Using a mad libs format, this will allow ayone to learn the basic parts of speech in an enertaining way, by replacing various words of a story with randomly selected words.  The idea is to provide several types of stories and different levels of difficulty.  Special fonts will be used to enhance learning for those with dyslexia, encouraging users to read their stories out loud.
 
 The program will ask the user to select random parts of speech... and plug them into the story BEFORE they have read it.
 
