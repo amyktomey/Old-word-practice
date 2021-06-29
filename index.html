@@ -10,9 +10,31 @@
 <body>
     <h1>Fun With Words</h1>
     <h2>An Adventure in Sorytelling</h2>
-<p>This is a test.  It is not the real story. It is only a test.
-    <br> If it were a real story, it would have a plot, interesting characters and a clever ending.
-</p>
+    <div>
+        <p>This is a test.  It is not the real story. It is only a test.
+            <br> If it were a real story, it would have a fascinating plot, interesting characters and a clever ending.
+        </p>
+        <form name "chooseWords" action="/my-story-page" method="post">
+            <ul>
+                <li>
+                <label for="name"> What is your name? </label>
+                <input type="text" id="name" name="story_Name">
+                </li>
+                <li>
+                <label for="noun">Please enter a noun.  A noun is a person, place or thing.</label>
+                <input type="text" id="noun" name="story_noun">
+                </li>
+                <li>
+                <label for="verb">Please enter a verb.  A verb is an action word.</label>
+                <input type="text" id="verb" name="story_verb">
+                </li>
+                <li>
+                <label for="color">What is your favorite color?</label>
+                <input type="text" id="color" name="story_color">
+                </li>
+              </ul>
+        </form>  
+    </div>
 <script src="js\script.js"></script>
 </body>
 </html>

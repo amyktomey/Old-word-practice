@@ -17,7 +17,25 @@ p {
   font-size: 20px;
 }
 
-.noun, .verb, .adjective, .adverb {
-color:midnightblue;
+ul {
+margin: 5px;
+margin-left: 0%;
 
 }
+
+form {
+margin: 0 auto;
+width: auto;
+background-color: silver;
+padding: 1em;
+border: 1px solid rgb(2, 43, 29);
+border-radius: 1em;
+}
+
+
+
+/*
+.noun, .verb, .adjective, .adverb {
+color:midnightblue;
+}
+*/
