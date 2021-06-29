@@ -1,3 +1,5 @@
+
+
 function addWords() {
     var name = document.forms["chooseWords"]["Name"];
     var noun = document.forms["chooseWords"]["Noun"];
@@ -26,4 +28,8 @@ function addWords() {
     }
 
     return true;
+
+    
+
 }
+
