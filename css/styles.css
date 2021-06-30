@@ -2,28 +2,29 @@ body {
   background-color: rgb(167, 231, 186);
   font-family: Open-Dyslexic, Comic Sans, Century Gothic, Verdana;
 }
+h1, h2, p {
+  text-align: center;
+}
 
 h1 {
   color: rgb(0, 0, 0);
-  text-align: center;
 }
 
 h2 {
   color: rgb(9, 58, 23);
-  text-align: center;
 }
 
 p {
   box-sizing: border-box;
-  -ms-flex-align: center;
   font-size: 20px;
-  margin-left: 15px;
-
+  margin: 25px;
+  justify-content: left;
 }
 
 ul {
 margin: 5px;
 margin-left: 0%;
+font-weight: bolder;
 
 }
 
@@ -37,8 +38,9 @@ border: 1px solid rgb(2, 43, 29);
 border-radius: 1em;
 }
 
-/*
-.noun, .verb, .adjective, .adverb {
-color:midnightblue;
+button {
+border: 1px solid rgb(77, 190, 153);
+border-radius: 5em;
+box-sizing: content-box;
+justify-content: center;
 }
-*/
