@@ -1,9 +1,11 @@
 # FunWithWords
-JS project website... code Louisville
+C# project website... code Louisville
 
-This website is designed with my grandson in mind, who has dyslexia.  Using a mad libs format, this will allow ayone to learn the basic parts of speech in an enertaining way, by replacing various words of a story with randomly selected words.  The idea is to provide several types of stories and different levels of difficulty.  Special fonts will be used to enhance learning for those with dyslexia, encouraging users to read their stories out loud.
+A work in progress, started as a javascript project monhts ago... I have removed all JS files, and am beginning the C# build.  If all goes as planned, this program will run on Windows and Mac systems.
 
-The program will ask the user to select random parts of speech... and plug them into the story BEFORE they have read it.
+This website is designed with my grandson in mind, who has dyslexia.  Using a mad libs format, this will allow ayone to learn the basic parts of speech in an enertaining way and practice spelling and readind by replacing various words of a story with a sp[ellking list or randomly selected words.  The idea is to provide several types of stories and different levels of difficulty.  Special fonts will be used to enhance learning for those with dyslexia, encouraging users to read their stories out loud.
+
+The program will ask the user to input the words and plug them into the story BEFORE they have read it. 
 
 The requests will be similar to:
   Please select a noun.  A noun is a person, place or thing.
