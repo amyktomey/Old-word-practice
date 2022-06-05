@@ -1,11 +1,52 @@
-# FunWithWords
-C# project website... code Louisville
+#  C#  Fun With Words
 
-A work in progress, started as a javascript project monhts ago... I have removed all JS files, and am beginning the C# build.  If all goes as planned, this program will run on Windows and Mac systems.
+This repository contains all the files for the C# Software Dev 2 final project.
 
-This website is designed with my grandson in mind, who has dyslexia.  Using a mad libs format, this will allow ayone to learn the basic parts of speech in an enertaining way and practice spelling and readind by replacing various words of a story with a sp[ellking list or randomly selected words.  The idea is to provide several types of stories and different levels of difficulty.  Special fonts will be used to enhance learning for those with dyslexia, encouraging users to read their stories out loud.
+#1 Purpose 
 
-The program will ask the user to input the words and plug them into the story BEFORE they have read it. 
+This program is designed with my grandson in mind, who has dyslexia.  Using a mad libs format, this will allow ayone to learn the basic parts of speech in an enertaining way. The user can also enter a list of spelling words, turning them imto word jumbles, allowing them to practice spelling words correctly. Special fonts will be used to enhance learning for those with dyslexia.
+
+#2 Technologies:
+
+- **Backend** - C# 10 .NET 6
+- **ORM** - EF 6
+- **Database** - SQL
+- **Frontend**- Razor/ HTML/ JS/ CSS 
+
+#2 Patterns:
+
+-MVC (Model, View, Controllers)
+- Code First Database Creation
+
+#3 Getting Started:
+
+1. Clone
+2. Navigate to the 'SOURCE' folder
+3. Run 'dotnet run'
+4. Select Jumble or MadLibs
+5. Add words for Jumble puzzle or add requested parts of speech for a Mad Libs style story.
+
+#4 Features:
+
+- [ ] Ability to select Jumble or MadLibs
+- [ ] Ability to add spelling words (Jumble)
+- [ ] Ability to turn those words into a jumble puzzle
+- [ ] Ability to verify words are input correctly
+- [ ] Ability to request specific parts of speach (MadLibs)
+- [ ] Ability to input words into story
+- [ ] Ability to print the story to screen
+- [ ] Ability to delete or edit words
+
+
+## ToDo:
+
+- [ ] Create a new C# .NET MVC App
+- [ ] Create Models for Database
+- [ ] Integrate EF 6 into Project
+- [ ] Scaffold DB and Controllers
+- [ ] Customize the solution to show off my skills
+
+
 
 The requests will be similar to:
   Please select a noun.  A noun is a person, place or thing.
